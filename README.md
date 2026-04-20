@@ -12,3 +12,6 @@ Email lee.frank@mayo.edu
 
 # Acknowledgments
 Thank you Dr. Marko Nemet for assistance with R code
+
+# Licensing
+There is no licensing associated. This code is made publicly available for data sharing. We kindly request acknowledgment.
